@@ -1,0 +1,1 @@
+This folder contains deployment configuration files (Docker, CI/CD) for the Fan Meet & Greet Manager app.
