@@ -1,0 +1,1 @@
+This folder contains SQL migration scripts for the Fan Meet & Greet Manager app.
