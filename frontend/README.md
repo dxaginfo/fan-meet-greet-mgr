@@ -1,0 +1,1 @@
+This folder contains the React front-end code for the Fan Meet & Greet Manager app.
