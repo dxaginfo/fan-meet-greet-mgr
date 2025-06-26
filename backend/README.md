@@ -1,0 +1,1 @@
+This folder contains Node.js backend (API) code for the Fan Meet & Greet Manager app.
